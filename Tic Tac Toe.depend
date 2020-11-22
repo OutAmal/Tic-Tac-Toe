@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1606001109 source:c:\users\amelo\onedrive\bureau\amal\coding\tic tac toe\main.cpp
+	<iostream>
+	<time.h>
+	<list>
+
